@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bc14f9aded711bc4c979153d09df1268
+timeCreated: 1512403799
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VKB KonQa
+  fontNames:
+  - VKB KonQa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
