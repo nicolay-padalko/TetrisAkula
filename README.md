@@ -2,4 +2,4 @@
 
 Estudo de game com C# no Unity 3D
 
-![tela1](/images/tela01.jpg)
+![tela1](tela01.jpg)
